@@ -8,8 +8,9 @@ I'm an 18-year-old self-taught software developer from Türkiye 🇹🇷. I curr
 - 🎮 Small-scale Game Development (Unity / C#)
 - 🌐 Web Development
 
+## I'm aiming to:
 I'm learning Japanese 🇯🇵 and I’m aiming to live and work in Japan in the near future.  
-Check out some of my projects below and feel free to connect!
+Check out some of my projects below and feel free to connect.
 
 ## 🧰 Languages & Tools
 - Python, JavaScript, C#
